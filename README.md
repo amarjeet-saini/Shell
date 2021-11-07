@@ -1,6 +1,15 @@
 # Shell
 osh shell - a simple unix shell implementation.
 
+#### Run Shell
+Download files and run at terminal 
+```
+prompt> make
+```
+or 
+```
+prompt> gcc -o osh osh.c -Wall -Werror
+```
 ### Overview
 Shell is basically an interactive loop: it repeatedly prints a prompt `osh> `, it parses the input, executes the command
 specified on that line of input, and waits for the command to finish. This is repeated until the user types `exit`.
