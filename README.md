@@ -23,4 +23,6 @@ osh>
 3. added some built-in Commands like `history`, `cd`, `exit`
 4. supports redirection i.e `osh> ls -l > output`
 
+![](https://github.com/amarjeet-saini/Shell/blob/main/osh.gif)
+
 Detail implementation and notes @[blog](https://amarjeet-saini.github.io/projects/osh)
