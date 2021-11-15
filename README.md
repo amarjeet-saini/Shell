@@ -25,4 +25,4 @@ osh>
 
 ![](https://github.com/amarjeet-saini/Shell/blob/main/osh.gif)
 
-Detail implementation and notes @[blog](https://amarjeet-saini.github.io/projects/osh)
+<!-- Detail implementation and notes @[blog](https://amarjeet-saini.github.io/projects/osh) -->
