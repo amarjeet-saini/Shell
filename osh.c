@@ -1,6 +1,5 @@
 /*
 * osh shell - A UNIX Shell implementation 
-* For documentation visit - 
 * Author - Amarjeet Saini
 * Created on - 20/10/21
 */
